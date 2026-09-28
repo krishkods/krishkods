@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="150px" /> Hi!
+## <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Cartoon%20Hello%20GIF.gif" width="150px" /> Hey, I'm Krish 👋
 
 <p align="center">
   <img
@@ -9,17 +9,15 @@
 
 <p align="center">
   <samp>
-    My name is <em>Krish</em>. I am a <strong>Full-Stack & AI Engineer</strong>.
+    <strong>Full-Stack Engineer • AI Engineer • Indie Builder</strong>
+    <br/><br/>
+    I build products, AI infrastructure, and scalable systems from scratch.
     <br/>
-    Building AI infrastructure, scalable backend systems, and developer tools.
+    Currently exploring the intersection of <strong>AI × Backend Systems × Products</strong>.
+    <br/><br/>
+    TypeScript enthusiast • Python lover • Backend engineer
     <br/>
-    TypeScript enthusiast • Python lover • Backend engineer.
-    <br/>
-    Passionate about shipping production software,
-    <br/>
-    continuously learning, solving real-world problems,
-    <br/>
-    and building products developers love.
+    Shipping ideas, breaking things, learning, rebuilding.
   </samp>
 </p>
 
@@ -33,78 +31,266 @@ width="30%"
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/PusheenCompute.gif" width="70px" /> I'm currently working on ...
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/PusheenCompute.gif" width="70px" /> What I'm Building
 
-* 🧠 **Synapse** — AI Memory Infrastructure for persistent contextual memory across LLM sessions.
-* 📦 **@khareindustries/synapse-sdk** — Zero-dependency TypeScript SDK published on npm.
-* ⚡ Building scalable backend systems using FastAPI, Redis, Qdrant, and AWS.
-* 🚀 Growing open-source AI developer tools.
+> Turning ideas into real products — not just prototypes.
+
+* 🧠 **Synapse** — AI memory infrastructure for persistent contextual memory across LLM sessions.
+* 📸 **PhotoBid** — A social platform where photos compete for the spotlight through bidding.
+* 📦 **Synapse SDK** — Zero-dependency TypeScript SDK for integrating persistent AI memory.
+* ⚡ **Backend Systems** — Scalable APIs, real-time infrastructure, distributed systems and developer tooling.
+* 🚀 **Open Source** — Building tools that other developers can actually use.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Confused_Dog.gif" height="50px" /> I'm currently learning ...
+### 📸 PhotoBid
+
+<p align="center">
+  <strong>Share it. Bid it. Own the spotlight.</strong>
+</p>
+
+**PhotoBid** is a social platform built around a simple idea:
+
+> What if photos could compete for attention?
+
+Users publish photos, discover content, interact with creators, and bid to give posts more visibility.
+
+**Built with:**
+
+`Next.js` `TypeScript` `MongoDB Atlas` `Cloudflare R2` `Dodo Payments` `Vercel`
+
+**Highlights**
+
+* 🖼️ Social image discovery
+* 💰 Paid bidding system
+* 🏆 Rankings & Hall of Fame
+* 👤 Creator profiles
+* 🔐 Authentication & Google Sign-In
+* 🛡️ Content moderation & reporting
+* ☁️ Cloudflare R2 image infrastructure
+* 💳 Payment & webhook lifecycle
+* 📱 Responsive mobile-first UI
+* 🔎 SEO & Google Search Console integration
+
+> 🚀 Built and launched independently.
+
+---
+
+### 🧠 Synapse
+
+**Semantic Yield Neural Adaptive Processing & Storage Engine**
+
+AI memory infrastructure designed to give applications persistent contextual memory across conversations and LLM sessions.
+
+**Built with:**
+
+`Python` `FastAPI` `Qdrant` `Redis` `MongoDB` `Next.js`
+
+**Focus areas**
+
+* 🧠 Persistent AI memory
+* 🔎 Semantic retrieval
+* 🗃️ Vector databases
+* 🤖 LLM context management
+* ⚡ High-performance APIs
+* 📦 Developer SDKs
+
+---
+
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Confused_Dog.gif" height="50px" /> Currently Learning
 
 * 🤖 AI Agents & Agentic Workflows
-* ⚡ Distributed Systems & High-Performance Backend Architecture
+* ⚡ Distributed Systems
 * ☸️ Kubernetes & Cloud Infrastructure
-* 🧠 Semantic Search, Vector Databases & RAG
-* 🦙 Self-Hosted LLMs & Model Optimization
+* 🧠 RAG & Semantic Search
+* 🗃️ Vector Databases
+* 🦙 Self-Hosted LLMs
+* 🚀 High-Performance Backend Architecture
+* 🌐 Large-Scale System Design
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/pug_dance.gif" width="60px" /> I'm looking to collaborate on ...
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/pug_dance.gif" width="60px" /> Let's Build Something
 
-* 🤖 Open Source AI Projects
-* ⚡ Backend Infrastructure
-* 🧠 Developer Tools
-* 🌍 Innovative SaaS Products
+I'm interested in collaborating on:
 
----
+* 🤖 AI & Open Source
+* 🧠 AI Infrastructure
+* ⚡ Backend Systems
+* 🌐 Developer Tools
+* 🚀 SaaS Products
+* 📱 Interesting consumer apps
+* 💡 Weird ideas that might actually work
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/cool_duck.gif" width="60px" /> I'm looking for help with ...
-
-* 🚀 Scaling Synapse globally
-* 🌍 Building a developer community
-* 💡 Crazy AI ideas worth building
-* 📈 Open Source Growth
+If you're building something ambitious, **let's talk.**
 
 ---
 
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/question.png" width="50px" /> Ask me about ...
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/cool_duck.gif" width="60px" /> Ask Me About
 
 * ⚡ FastAPI
 * 🟨 Node.js
+* 🔷 TypeScript
+* 🐍 Python
 * 🔴 Redis
 * 🟣 Qdrant
+* 🍃 MongoDB
 * 🤖 AI Infrastructure
-* 🧠 Long-Term Memory for LLMs
+* 🧠 LLM Memory
 * 📱 React Native
-* 🌐 Full-Stack Development
-* ☁️ Backend Architecture
+* ⚛️ React / Next.js
+* ☁️ Cloud Architecture
+* 🔌 Real-Time Systems
+* 💳 Payment Systems
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/Penguins%20Of%20Madagascar%20Hello%20GIF.gif" width="70px" /> Featured Projects
 
-#### 🧠 Synapse
+<table>
+<tr>
+<td width="50%">
 
-AI Memory Infrastructure enabling persistent contextual memory for AI applications and LLMs.
+### 🧠 Synapse
 
-#### 📦 Synapse SDK
+AI memory infrastructure for persistent contextual memory across LLM sessions.
 
-Zero-dependency TypeScript SDK for integrating Synapse into Node.js and browser applications.
+`Python` `FastAPI` `Qdrant` `Redis`
 
-#### 💬 Real-Time Messaging Platform
+</td>
 
-Cross-platform messaging application built with React Native, Socket.IO, Redis, MongoDB, and AWS.
+<td width="50%">
 
-#### ⚔️ AI Debate Partner
+### 📸 PhotoBid
 
-AI-powered debate platform supporting multi-turn conversations with intelligent context management.
+A social platform where photos compete for the spotlight through bidding.
+
+`Next.js` `MongoDB` `R2` `Dodo`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📦 Synapse SDK
+
+Zero-dependency TypeScript SDK for integrating Synapse into applications.
+
+`TypeScript` `npm` `AI`
+
+</td>
+
+<td width="50%">
+
+### 💬 Real-Time Messaging
+
+Cross-platform messaging platform with real-time communication infrastructure.
+
+`React Native` `Socket.IO` `Redis` `MongoDB`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚔️ AI Debate Partner
+
+AI-powered debate platform supporting multi-turn conversations and contextual reasoning.
+
+`AI` `Next.js` `LLMs`
+
+</td>
+
+<td width="50%">
+
+### 🛠️ More Coming...
+
+Always experimenting with new ideas.
+
+`Build` `Ship` `Learn` `Repeat`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🐧 How to reach me
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,redux,tailwind,mongodb,redis,firebase,docker,aws,linux,git,github,vscode"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Dodo%20Payments-111111?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false"
+width="48%"
+/>
+
+<img
+src="https://streak-stats.demolab.com/?user=krishkhare049&theme=ambient_gradient&hide_border=true"
+width="48%"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+width="48%"
+/>
+
+</p>
+
+---
+
+### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/bongocat.gif" width="50px" /> Current Mission
+
+```text
+Build → Ship → Learn → Improve → Repeat
+```
+
+* 🚀 Launch products people actually use
+* 🌍 Build software for a global audience
+* 🧠 Push deeper into AI infrastructure
+* 📦 Grow meaningful open-source projects
+* ⚡ Become excellent at distributed systems
+* 💼 Work with ambitious engineers and builders
+
+---
+
+### 🐱 A Few Things About Me
+
+* ☕ I can spend hours optimizing backend systems.
+* 🧠 I love building products from zero.
+* 🔧 I enjoy understanding how things work under the hood.
+* 📚 Always learning something new.
+* 🌙 Some of my best ideas appear when everyone else is asleep.
+* 🚀 I prefer shipping over endlessly planning.
+* 💡 Most projects start with: **"What if...?"**
+
+---
+
+### 🌐 Find Me Around the Internet
 
 <p align="center">
 
@@ -132,69 +318,6 @@ AI-powered debate platform supporting multi-turn conversations with intelligent 
 
 ---
 
-### 🛠️ Tools & Frameworks
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,redux,tailwind,mongodb,redis,firebase,docker,aws,linux,git,github,vscode"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google"/>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.shion.dev/api?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false"
-width="48%"
-/>
-
-<img
-src="https://streak-stats.demolab.com/?user=krishkhare049&theme=ambient_gradient&hide_border=true"
-width="48%"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=krishkhare049&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-width="48%"
-/>
-
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/krishkhare049/krishkhare049/refs/heads/main/bongocat.gif" width="50px" /> Current Goals
-
-* 🚀 Launch Synapse publicly
-* 🌍 Build AI infrastructure used by developers worldwide
-* 📦 Publish more open-source packages
-* 🧠 Master distributed systems & LLM infrastructure
-* 💼 Work with an ambitious engineering team
-
----
-
-### 🐱 Fun Facts
-
-* ☕ I can spend hours optimizing backend systems.
-* 🧠 I enjoy building products from scratch.
-* 📚 Always learning something new in AI and distributed systems.
-* 🌙 Most productive late at night.
-* 🚀 I believe great software is built by shipping, learning, and iterating.
-
----
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=krishkhare049&style=for-the-badge&color=blue"
@@ -202,14 +325,14 @@ width="48%"
   />
 </p>
 
----
-
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 <h3 align="center">
-⭐ Building the future of AI Infrastructure
+  🚀 Building products, AI infrastructure & things that shouldn't exist yet.
 </h3>
+
+<p align="center">
+  <samp>Thanks for stopping by 👋</samp>
+</p>
